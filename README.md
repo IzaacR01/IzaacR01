@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 Ando aprendiendo en la materia de Ing. de Conocimiento
 - Me gustan los mapaches owo
 
-<img src="smiley.gif" style="width:42px; height:42px;">
-
 <!--
 **IzaacR01/IzaacR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
