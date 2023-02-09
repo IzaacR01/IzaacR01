@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 Toi trabajando en la Notaria 9
 - 🌱 Ando aprendiendo en la materia de Ing. de Conocimiento
-- I like Foxes owo
+- Me gustan los mapaches owo
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Ffox&psig=AOvVaw2EPQ9dL6Dlk7M1PP6oZsX3&ust=1676071763088000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDqnoLMif0CFQAAAAAdAAAAABAF)
+<a href= "https://imgur.com/m7BYtZS">
 
 <!--
 **IzaacR01/IzaacR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
