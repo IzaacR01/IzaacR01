@@ -3,11 +3,7 @@
 
 ![](https://images.cooltext.com/5643131.png)
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643131.png" width="427" height="88" alt="LeafStone" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4293261316">Create An Image Just Like This</a>
-
-<!--
-**IzaacR01/IzaacR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 |       | Lunes                        | Martes                       | Miercoles                    | Jueves                       | Viernes      |
 |:-----:|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:------------:|
@@ -25,4 +21,8 @@ Here are some ideas to get you started:
 - I like Foxes owo
 
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Ffox&psig=AOvVaw2EPQ9dL6Dlk7M1PP6oZsX3&ust=1676071763088000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDqnoLMif0CFQAAAAAdAAAAABAF)
+
+<!--
+**IzaacR01/IzaacR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
